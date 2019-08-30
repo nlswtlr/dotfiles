@@ -1,0 +1,13 @@
+# general
+alias cl="clear"
+alias week="date +%V"
+
+# git
+alias g="git"
+alias gs="git status"
+alias ga="git add ."
+
+# npm
+alias ni="npm install"
+alias nri="rm -r node_modules && npm install"
+alias na="npm audit"
