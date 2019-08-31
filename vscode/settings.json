@@ -1,0 +1,45 @@
+// Platzieren Sie Ihre Einstellungen in dieser Datei, um die Standardeinstellungen zu überschreiben.
+{
+
+
+
+  "workbench.startupEditor": "newUntitledFile",
+  "workbench.sideBar.location": "left",
+  "extensions.ignoreRecommendations": false,
+  "sync.gist": "f28cc1bd8487878b44005d25d7c74ad7",
+  "sync.lastUpload": "2017-10-16T12:34:46.994Z",
+  "sync.autoDownload": true,
+  "sync.autoUpload": true,
+  "sync.lastDownload": "",
+  "sync.forceDownload": false,
+  "sync.anonymousGist": false,
+  "sync.host": "",
+  "sync.pathPrefix": "",
+  "sync.quietSync": false,
+  "sync.askGistName": true,
+  "eslint.enable": false,
+  "editor.renderWhitespace": "all",
+  "eslint.alwaysShowStatus": true,
+"editor.detectIndentation": false,
+  "editor.tabSize": 2,
+  "prettier.printWidth": 120,
+  "explorer.confirmDragAndDrop": false,
+  "window.zoomLevel": 0,
+  "gitlens.advanced.messages": {
+    "suppressShowKeyBindingsNotice": true
+  },
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "editor.fontWeight": "400",
+  "editor.fontSize": 13,
+"workbench.fontAliasing": "antialiased",
+  "files.associations": {},
+  "json.format.enable": false,
+  "html.format.enable": false,
+"flow.pathToFlow": "${workspaceFolder}/node_modules/.bin/flow",
+"editor.tabCompletion": "on",
+"sync.removeExtensions": false,
+"emmet.triggerExpansionOnTab": true,
+"editor.formatOnSaveTimeout": 0,
+"html.format.indentHandlebars": true,
+"editor.formatOnSave": true
+}
