@@ -80,15 +80,12 @@ source $ZSH/oh-my-zsh.sh
 # users are encouraged to define aliases within the ZSH_CUSTOM folder.
 # For a full list of active aliases, run `alias`.
 
+#####################
+# CUSTOMIZATION
+#####################
+
+# load custom aliases
 source $HOME/.dotfiles/.alias
 
-export NVM_DIR="$HOME/.nvm"
-[ -s "$NVM_DIR/nvm.sh" ] && . "$NVM_DIR/nvm.sh"  # This loads nvm
-
-###-tns-completion-start-###
-if [ -f $HOME/.tnsrc ]; then 
-    source $HOME/.tnsrc 
-fi
-###-tns-completion-end-###
-
-DEFAULT_USER=nilswittler
+# load custom settings for local env not being commited in the actual dorfiles repo 
+source $HOME/.dotfiles/.local
