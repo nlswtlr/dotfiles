@@ -51,7 +51,7 @@ ZSH_THEME="agnoster"
 # Custom plugins may be added to ~/.oh-my-zsh/custom/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
-plugins=(git)
+plugins=(autojump thefuck)
 
 source $ZSH/oh-my-zsh.sh
 
@@ -89,3 +89,6 @@ source $HOME/.dotfiles/.alias
 
 # load custom settings for local env not being commited in the actual dorfiles repo 
 source $HOME/.dotfiles/.local
+
+# load custom functions
+source $HOME/.dotfiles/functions.sh

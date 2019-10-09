@@ -17,6 +17,8 @@ brew tap caskroom/versions
 brew install git
 brew install wget
 brew install nvm
+brew install thefuck
+brew install autojump
 
 # install mac applications
 brew cask install iterm2
