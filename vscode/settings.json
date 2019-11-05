@@ -17,7 +17,6 @@
   "sync.pathPrefix": "",
   "sync.quietSync": false,
   "sync.askGistName": true,
-  "eslint.enable": false,
   "editor.renderWhitespace": "all",
   "eslint.alwaysShowStatus": true,
 "editor.detectIndentation": false,
@@ -30,7 +29,6 @@
   },
   "javascript.updateImportsOnFileMove.enabled": "always",
   "editor.fontWeight": "400",
-  "editor.fontSize": 13,
 "workbench.fontAliasing": "antialiased",
   "files.associations": {},
   "json.format.enable": false,
@@ -41,5 +39,9 @@
 "emmet.triggerExpansionOnTab": true,
 "editor.formatOnSaveTimeout": 0,
 "html.format.indentHandlebars": true,
-"editor.formatOnSave": true
+"editor.formatOnSave": true,
+"sync.forceUpload": true,
+"editor.defaultFormatter": "esbenp.prettier-vscode",
+"workbench.colorTheme": "Atom One Dark",
+"workbench.iconTheme": "vscode-icons"
 }
