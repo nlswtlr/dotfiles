@@ -19,6 +19,7 @@ brew install wget
 brew install nvm
 brew install thefuck
 brew install autojump
+brew install mkcert
 
 # install mac applications
 brew cask install iterm2
