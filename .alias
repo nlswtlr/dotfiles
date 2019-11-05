@@ -12,6 +12,7 @@ alias gpu="git push --set-upstream origin"
 alias gu="git pull"
 alias gc="git checkout"
 alias gcb="git checkout -b"
+alias gm="git merge"
 
 # npm
 alias ni="npm install"
