@@ -48,3 +48,4 @@ brew cask install slack
 brew cask install visual-studio-code
 brew cask install virtualbox
 brew cask install spectacle
+brew cask install sequel-pro
