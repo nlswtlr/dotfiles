@@ -8,7 +8,7 @@
   "Styled-Component": {
     "scope": "javascript,typescript",
     "prefix": "sc",
-    "body": ["import styled from 'styled-components';\n", "const $1 = styled.div``\n", "export default $1"],
+    "body": ["import styled from 'styled-components';\n", "export const $1 = styled.div``"],
     "description": ""
   },
   "React Component": {
