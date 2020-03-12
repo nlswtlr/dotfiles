@@ -1,12 +1,22 @@
 {
   "SC component": {
-    "scope": "javascript,typescript",
+    "scope": "javascript,typescript,typescriptreact",
     "prefix": "sc",
-    "body": ["import styled from 'styled-components';\n", "export const $1 = styled.div``"]
+    "body": [
+      "import styled from 'styled-components';\n",
+      "export const $1 = styled.div``"
+    ]
   },
   "React component": {
-    "scope": "javascript,typescript",
+    "scope": "javascript,typescript,typescriptreact",
     "prefix": "rc",
-    "body": ["import * as React from 'react';\n\n", "import * as S from './styles';\n", "const $1 = () => {", "  return <></>", "}\n", "export default $1"],
+    "body": [
+      "import * as React from 'react';\n",
+      "import * as S from './styles';\n",
+      "const $1 = () => {",
+      "  return <></>",
+      "}\n",
+      "export default $1"
+    ],
   }
 }
