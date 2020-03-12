@@ -32,7 +32,7 @@ brew cask install webtorrent
 #brew cask install whatsapp
 brew cask install telegram-desktop
 
-brew cask install firefox
+brew cask install firefox-developer-edition
 brew cask install google-chrome
 brew cask install opera
 brew cask install tor-browser
@@ -44,7 +44,6 @@ brew cask install slack
 
 brew cask install dash
 brew cask install insomnia
-brew cask install slack
 brew cask install visual-studio-code
 brew cask install virtualbox
 brew cask install spectacle
