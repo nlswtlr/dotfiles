@@ -12,6 +12,7 @@ fi
 # https://github.com/Homebrew/homebrew-cask
 brew tap caskroom/cask
 brew tap caskroom/versions
+brew tap drud/ddev
 
 # install os applications
 brew install git
@@ -20,6 +21,7 @@ brew install nvm
 brew install thefuck
 brew install autojump
 brew install mkcert
+brwe install ddev
 
 # install mac applications
 brew cask install iterm2
