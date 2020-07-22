@@ -37,7 +37,8 @@ brew cask install whatsapp
 brew cask install telegram-desktop
 brew cask install todoist
 brew cask install 1password
-brwe cask install nextcloud
+brew cask install nextcloud
+brew cask install muzzle
 
 brew cask install firefox-developer-edition
 brew cask install google-chrome
