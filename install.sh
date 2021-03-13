@@ -36,7 +36,7 @@ brew install --cask webtorrent
 brew install --cask whatsapp
 brew install --cask telegram-desktop
 brew install --cask todoist
-brew install --cask 1password
+brew install --cask keepassxc
 brew install --cask nextcloud
 brew install --cask muzzle
 brew install --cask webponize
