@@ -84,10 +84,10 @@ source $ZSH/oh-my-zsh.sh
 # CUSTOMIZATION
 #####################
 
-# load custom aliases
+# load custom alias
 source $HOME/.dotfiles/.alias
 
-# load custom settings for local env not being commited in the actual dorfiles repo 
+# load custom settings for local env not being commited in the actual dotfles repo 
 source $HOME/.dotfiles/.local
 
 # load custom functions
