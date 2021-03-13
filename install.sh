@@ -42,6 +42,7 @@ brew cask install muzzle
 brew cask install webponize
 brew cask install android-file-transfer
 brew cask install WebPQuickLook
+brew install --cask graphiql
 
 brew cask install firefox-developer-edition
 brew cask install google-chrome
