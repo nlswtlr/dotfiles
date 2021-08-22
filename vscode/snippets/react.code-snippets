@@ -2,10 +2,7 @@
   "SC component": {
     "scope": "javascript,typescript,typescriptreact",
     "prefix": "sc",
-    "body": [
-      "import styled from 'styled-components';\n",
-      "export const $1 = styled.div``"
-    ]
+    "body": ["import styled from 'styled-components';\n", "export const $1 = styled.div``"]
   },
   "React component": {
     "scope": "javascript,typescript,typescriptreact",
@@ -17,6 +14,11 @@
       "  return <></>",
       "}\n",
       "export default $1"
-    ],
+    ]
+  },
+  "Index component": {
+    "scope": "javascript,typescript,typescriptreact",
+    "prefix": "ic",
+    "body": ["import $1 from './$1';\n", "\n", "export default $1"]
   }
 }

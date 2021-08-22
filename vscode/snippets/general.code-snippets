@@ -1,8 +1,8 @@
 {
   "Print to console": {
-    "scope": "javascript,typescript",
+    "scope": "javascript,typescript,typescriptreact",
     "prefix": "cl",
-    "body": ["console.log($1);"]
+    "body": ["console.log($1)"]
   },
   "Media Query": {
     "scope": "css,scss,sass",
