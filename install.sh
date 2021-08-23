@@ -42,7 +42,7 @@ brew cask install muzzle
 brew cask install webponize
 brew cask install android-file-transfer
 brew cask install WebPQuickLook
-
+brew cask install toggl-track
 brew cask install firefox-developer-edition
 brew cask install google-chrome
 brew cask install opera
