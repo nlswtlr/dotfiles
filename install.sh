@@ -58,6 +58,6 @@ brew install --cask dash
 brew install --cask insomnia
 brew install --cask visual-studio-code
 brew install --cask virtualbox
-brew install --cask spectacle
+brew install --cask rectangle
 brew install --cask sequel-pro
 brew install --cask itsycal
