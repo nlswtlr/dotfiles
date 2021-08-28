@@ -1,7 +1,6 @@
 #!/usr/bin/env bash
-
 is_executable() {
-  type brew > /dev/null 2>&1
+  type brew >/dev/null 2>&1
 }
 
 if ! is_executable; then
@@ -42,6 +41,7 @@ brew install --cask muzzle
 brew install --cask webponize
 brew install --cask android-file-transfer
 brew install --cask WebPQuickLook
+brwe install --cask toggl-track
 brew install --cask graphiql
 
 brew install --cask firefox-developer-edition
