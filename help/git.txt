@@ -1,0 +1,6 @@
+--------------
+cherry-pick
+--------------
+
+git cherry-pick {oldest commit hash}..{(including) newest commit hash} 
+git cherry-pick {(including) oldest commit hash}^..{(including) newest commit hash}

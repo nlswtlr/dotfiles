@@ -13,6 +13,7 @@ alias gu="git pull"
 alias gc="git checkout"
 alias gcb="git checkout -b"
 alias gm="git merge"
+alias gh="cat ~/.dotfiles/help/git.txt"
 
 # npm
 alias ni="npm install"
