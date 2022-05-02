@@ -1,8 +1,5 @@
 // Platzieren Sie Ihre Einstellungen in dieser Datei, um die Standardeinstellungen zu überschreiben.
 {
-
-
-
   "workbench.startupEditor": "newUntitledFile",
   "workbench.sideBar.location": "left",
   "extensions.ignoreRecommendations": false,
@@ -19,7 +16,7 @@
   "sync.askGistName": true,
   "editor.renderWhitespace": "all",
   "eslint.alwaysShowStatus": true,
-"editor.detectIndentation": false,
+  "editor.detectIndentation": false,
   "editor.tabSize": 2,
   "prettier.printWidth": 120,
   "explorer.confirmDragAndDrop": false,
@@ -29,19 +26,20 @@
   },
   "javascript.updateImportsOnFileMove.enabled": "always",
   "editor.fontWeight": "400",
-"workbench.fontAliasing": "antialiased",
+  "workbench.fontAliasing": "antialiased",
   "files.associations": {},
   "json.format.enable": false,
   "html.format.enable": false,
-"flow.pathToFlow": "${workspaceFolder}/node_modules/.bin/flow",
-"editor.tabCompletion": "on",
-"sync.removeExtensions": false,
-"emmet.triggerExpansionOnTab": true,
-"editor.formatOnSaveTimeout": 0,
-"html.format.indentHandlebars": true,
-"editor.formatOnSave": true,
-"sync.forceUpload": true,
-"editor.defaultFormatter": "esbenp.prettier-vscode",
-"workbench.colorTheme": "Atom One Dark",
-"workbench.iconTheme": "vscode-icons"
+  "flow.pathToFlow": "${workspaceFolder}/node_modules/.bin/flow",
+  "editor.tabCompletion": "on",
+  "sync.removeExtensions": false,
+  "emmet.triggerExpansionOnTab": true,
+  "editor.formatOnSaveTimeout": 0,
+  "html.format.indentHandlebars": true,
+  "editor.formatOnSave": true,
+  "sync.forceUpload": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "workbench.colorTheme": "Atom One Dark",
+  "workbench.iconTheme": "vscode-icons",
+  "editor.inlineSuggest.enabled": true
 }
