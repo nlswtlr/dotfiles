@@ -10,7 +10,8 @@
     "body": [
       "import * as React from 'react';\n",
       "import * as S from './styles';\n",
-      "const $1 = () => {",
+      "type $1Props = {}\n",
+      "const $1 = ({}: $1Props) => {",
       "  return <></>",
       "}\n",
       "export default $1"
@@ -19,6 +20,6 @@
   "Index component": {
     "scope": "javascript,typescript,typescriptreact",
     "prefix": "ic",
-    "body": ["import $1 from './$1';\n", "\n", "export default $1"]
+    "body": ["import $1 from './$1';\n", "export * from './$1'", "export default $1"]
   }
 }
