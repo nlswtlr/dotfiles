@@ -17,12 +17,13 @@ brew tap mongodb/brew
 # install os applications
 brew install git
 brew install wget
-brew install nvm
+brew install fnm
 brew install thefuck
 brew install autojump
 brew install mkcert
 brew install ddev
 brew install mongodb-community
+brew install tor
 
 # install mac applications
 brew install --cask iterm2
@@ -39,10 +40,10 @@ brew install --cask keepassxc
 brew install --cask nextcloud
 brew install --cask muzzle
 brew install --cask webponize
-brew install --cask android-file-transfer
 brew install --cask WebPQuickLook
-brwe install --cask toggl-track
+brew install --cask toggl-track
 brew install --cask graphiql
+brew install --cask imageoptim
 
 brew install --cask firefox-developer-edition
 brew install --cask google-chrome
