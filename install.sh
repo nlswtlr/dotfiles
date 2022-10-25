@@ -44,7 +44,7 @@ brew install --cask WebPQuickLook
 brew install --cask toggl-track
 brew install --cask graphiql
 brew install --cask imageoptim
-
+brew install --cask gpg-suite
 brew install --cask firefox-developer-edition
 brew install --cask google-chrome
 brew install --cask opera

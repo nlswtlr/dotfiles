@@ -15,7 +15,8 @@ alias gcb="git checkout -b"
 alias gm="git merge"
 
 # npm + pnpm
-alias pn=pnpm
+alias pn="pnpm"
+alias pnx="pnpm dlx"
 alias ni="npm install"
 alias nri="rm -r node_modules && npm install"
 alias na="npm audit"
