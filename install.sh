@@ -11,17 +11,14 @@ fi
 # https://github.com/Homebrew/homebrew-cask
 brew tap caskroom/cask
 brew tap caskroom/versions
-brew tap drud/ddev
 brew tap mongodb/brew
 
 # install os applications
 brew install git
 brew install wget
 brew install fnm
-brew install thefuck
 brew install autojump
 brew install mkcert
-brew install ddev
 brew install mongodb-community
 brew install tor
 
@@ -37,18 +34,17 @@ brew install --cask whatsapp
 brew install --cask telegram-desktop
 brew install --cask todoist
 brew install --cask keepassxc
-brew install --cask nextcloud
 brew install --cask muzzle
 brew install --cask webponize
 brew install --cask WebPQuickLook
 brew install --cask toggl-track
-brew install --cask graphiql
 brew install --cask imageoptim
 brew install --cask gpg-suite
 brew install --cask firefox-developer-edition
 brew install --cask google-chrome
 brew install --cask opera
 brew install --cask tor-browser
+brew install --cask diffusionbee
 
 brew install --cask spotify
 brew install --cask figma
@@ -60,5 +56,4 @@ brew install --cask insomnia
 brew install --cask visual-studio-code
 brew install --cask virtualbox
 brew install --cask rectangle
-brew install --cask sequel-pro
 brew install --cask itsycal
