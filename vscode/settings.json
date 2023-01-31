@@ -5,8 +5,6 @@
   "extensions.ignoreRecommendations": false,
   "sync.gist": "f28cc1bd8487878b44005d25d7c74ad7",
   "sync.lastUpload": "2017-10-16T12:34:46.994Z",
-  "sync.autoDownload": true,
-  "sync.autoUpload": true,
   "sync.lastDownload": "",
   "sync.forceDownload": false,
   "sync.anonymousGist": false,
@@ -20,7 +18,6 @@
   "editor.tabSize": 2,
   "prettier.printWidth": 120,
   "explorer.confirmDragAndDrop": false,
-  "window.zoomLevel": 0,
   "gitlens.advanced.messages": {
     "suppressShowKeyBindingsNotice": true
   },
@@ -36,10 +33,12 @@
   "emmet.triggerExpansionOnTab": true,
   "editor.formatOnSaveTimeout": 0,
   "html.format.indentHandlebars": true,
-  "editor.formatOnSave": true,
   "sync.forceUpload": true,
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "workbench.colorTheme": "Atom One Dark",
   "workbench.iconTheme": "vscode-icons",
-  "editor.inlineSuggest.enabled": true
+  "editor.inlineSuggest.enabled": true,
+  "vsicons.dontShowNewVersionMessage": true,
+  "svelte.ask-to-enable-ts-plugin": false,
+  "editor.formatOnSave": true
 }
