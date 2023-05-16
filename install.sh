@@ -21,9 +21,10 @@ brew install autojump
 brew install mkcert
 brew install mongodb-community
 brew install tor
+brew install clamav
 
 # install mac applications
-brew install --cask iterm2
+# brew install --cask iterm2
 brew install --cask vlc
 brew install --cask docker
 brew install --cask handbrake
@@ -33,25 +34,24 @@ brew install --cask webtorrent
 brew install --cask whatsapp
 brew install --cask telegram-desktop
 brew install --cask todoist
-brew install --cask keepassxc
 brew install --cask muzzle
 brew install --cask webponize
 brew install --cask WebPQuickLook
 brew install --cask toggl-track
 brew install --cask imageoptim
 brew install --cask gpg-suite
+brew install --cask diffusionbee
+brew install --cask firefox
 brew install --cask firefox-developer-edition
 brew install --cask google-chrome
 brew install --cask opera
 brew install --cask tor-browser
-brew install --cask diffusionbee
 
 brew install --cask spotify
 brew install --cask figma
 brew install --cask slack
 brew install --cask microsoft-teams
 
-brew install --cask dash
 brew install --cask insomnia
 brew install --cask visual-studio-code
 brew install --cask virtualbox
