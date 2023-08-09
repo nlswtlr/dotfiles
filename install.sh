@@ -24,7 +24,6 @@ brew install tor
 brew install clamav
 
 # install mac applications
-# brew install --cask iterm2
 brew install --cask vlc
 brew install --cask docker
 brew install --cask handbrake
@@ -46,6 +45,16 @@ brew install --cask firefox-developer-edition
 brew install --cask google-chrome
 brew install --cask opera
 brew install --cask tor-browser
+brew install --cask obsidian
+brew install --cask hyper
+
+brew install --cask lulu
+brew install --cask knockknock
+brew install --cask taskexplorer
+brew install --cask reikey
+brew install --cask netiquette
+brew install --cask blockblock
+brew install --cask oversight
 
 brew install --cask spotify
 brew install --cask figma
