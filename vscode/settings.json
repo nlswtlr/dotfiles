@@ -12,7 +12,8 @@
   "javascript.updateImportsOnFileMove.enabled": "always",
   "workbench.fontAliasing": "antialiased",
   "files.associations": {
-    "*.css": "tailwindcss"
+    "*.css": "tailwindcss",
+    "*.inc": "php"
   },
   "json.format.enable": false,
   "html.format.enable": false,
@@ -35,5 +36,12 @@
   "editor.formatOnSave": true,
   "editor.quickSuggestions": {
     "strings": true
+  },
+  "editor.stickyScroll.enabled": true,
+  "typescript.updateImportsOnFileMove.enabled": "never",
+  "prisma.showPrismaDataPlatformNotification": false,
+  "chat.commandCenter.enabled": false,
+  "workbench.editorAssociations": {
+    "*.svg": "default"
   }
 }

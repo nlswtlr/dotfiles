@@ -36,5 +36,9 @@
   {
     "key": "shift+cmd+c",
     "command": "sftp.openConnectInTerminal"
+  },
+  {
+    "key": "cmd+i",
+    "command": "composerMode.agent"
   }
 ]
