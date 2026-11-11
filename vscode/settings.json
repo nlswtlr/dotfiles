@@ -31,17 +31,27 @@
   "editor.detectIndentation": false,
   "editor.renderWhitespace": "all",
   "editor.tabCompletion": "on",
-  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.defaultFormatter": "biomejs.biome",
   "editor.inlineSuggest.enabled": true,
   "editor.formatOnSave": true,
   "editor.quickSuggestions": {
     "strings": true
   },
   "editor.stickyScroll.enabled": true,
-  "typescript.updateImportsOnFileMove.enabled": "never",
   "prisma.showPrismaDataPlatformNotification": false,
   "chat.commandCenter.enabled": false,
   "workbench.editorAssociations": {
     "*.svg": "default"
-  }
+  },
+  "json.schemaDownload.trustedDomains": {
+    "https://schemastore.azurewebsites.net/": true,
+    "https://raw.githubusercontent.com/": true,
+    "https://www.schemastore.org/": true,
+    "https://json.schemastore.org/": true,
+    "https://json-schema.org/": true,
+    "https://biomejs.dev": true
+  },
+  "chat.disableAIFeatures": true,
+  "extensions.autoUpdate": false,
+  "update.mode": "none"
 }
