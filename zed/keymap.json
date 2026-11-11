@@ -1,0 +1,15 @@
+[
+  {
+    "context": "Terminal",
+    "bindings": {
+      "shift-enter": ["terminal::SendText", "\u001b\r"],
+    },
+  },
+  {
+    "context": "Editor",
+    "bindings": {
+      "cmd-shift-7": "editor::ToggleComments",
+      "cmd-/": ["editor::ToggleComments", { "advance_downwards": false }],
+    },
+  },
+]
